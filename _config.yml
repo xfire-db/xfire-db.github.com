@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            XFireDB
 tagline:          'XFireDB documentation'
-description:      'XFireDB is a fast in-memory database system.'
+description:      'XFireDB documentation'
 url:              http://xfiredb.michelmegens.net
 baseurl:          /
 
