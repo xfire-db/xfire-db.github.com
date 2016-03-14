@@ -14,7 +14,7 @@ both storage and cluster management commands.
 	GET
 	SET
 
-## Hashmap commands
+## [Hashmap commands](/hmap/)
 
 	MDEL
 	MREF
