@@ -38,7 +38,7 @@ both storage and cluster management commands.
 	LSET
 	LCLEAR
 
-## CLUSTER commands
+## [CLUSTER commands](/cluster/)
 
 	CLUSTER USERMOD
 	CLUSTER USERADD
