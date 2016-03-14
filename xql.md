@@ -6,7 +6,8 @@ title: XQL
 ## Communicating with XFireDB
 
 XFireDB uses XQL as its scripting language. Using XQL you can interface with XFireDB in a similar
-fashion as XQL does for your every day XQL database.
+fashion as XQL does for your every day XQL database. Below are all the available XFireDB commands,
+both storage and cluster management commands.
 
 ## String commands
 
