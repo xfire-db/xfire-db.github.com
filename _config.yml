@@ -17,7 +17,7 @@ author:
   name:           'Michel Megens'
   url:            http://michelmegens.net
 
-#paginate:         5
+paginate:         5
 
 # Custom vars
 version:          0.0.1
