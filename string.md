@@ -1,7 +1,7 @@
 ---
 layout: page
 title: String commands
-nomenu: true
+menu: no
 ---
 
 ### GET
