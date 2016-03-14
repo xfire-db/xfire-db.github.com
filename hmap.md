@@ -1,6 +1,6 @@
 ---
 layout: page
-title: XQL commands
+title: Hashmap commands
 ---
 
 ## Hashmap commands
