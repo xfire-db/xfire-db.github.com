@@ -4,7 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:            XFireDB
@@ -17,7 +17,7 @@ author:
   name:           'Michel Megens'
   url:            http://michelmegens.net
 
-paginate:         5
+#paginate:         5
 
 # Custom vars
 version:          1.0.0
