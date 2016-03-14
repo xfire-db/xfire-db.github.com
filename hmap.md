@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Hashmap commands
 menu: no
 ---
 
