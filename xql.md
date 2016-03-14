@@ -29,17 +29,14 @@ both storage and cluster management commands.
 	SDEL
 	SCLEAR
 
-## List commands
+## [List commands](/list/)
 
 	LPUSH
 	LREF
 	LPOP
 	LSIZE
 	LSET
-
-## General commands
-
-	DELETE
+	LCLEAR
 
 ## CLUSTER commands
 
