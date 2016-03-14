@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hashmap commands
-menu: no
+nomenu: true
 ---
 
 ## Hashmap commands
