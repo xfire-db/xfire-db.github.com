@@ -9,7 +9,7 @@ XFireDB uses XQL as its scripting language. Using XQL you can interface with XFi
 fashion as XQL does for your every day XQL database. Below are all the available XFireDB commands,
 both storage and cluster management commands.
 
-## String commands
+## [String commands](/string/)
 
 	GET
 	SET
@@ -22,7 +22,7 @@ both storage and cluster management commands.
 	MADD
 	MSIZE
 
-## Set commands
+## [Set commands](/set/)
 
 	SINCLUDE
 	SADD
