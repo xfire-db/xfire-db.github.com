@@ -17,5 +17,5 @@ Client side API documentation is also located on docs.bietje.net, below is a lis
 all the API documentations we currently have (read: support).
 
 * [C](http://docs.bietje.net/c-api)
-* [Ruby](http://docs.bietje.net/xfiredb-ruby
+* [Ruby](http://docs.bietje.net/xfiredb-ruby)
 
