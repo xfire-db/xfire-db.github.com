@@ -9,9 +9,10 @@ is explained in detail.
 
 Every command, including XQL commands, are terminated by a newline feed. So when sending
 an authentication command this is what should be sent to the server (see below for further
-details about authentication). Reply's from the server are newline terminated too.
+details about authentication).
 
 	AUTH <username> <password>\n
+Reply's from the server are newline terminated aswell.
 
 ### XQL
 XQL is the interfacing language used to communicate with an XFireDB server. Documentation
